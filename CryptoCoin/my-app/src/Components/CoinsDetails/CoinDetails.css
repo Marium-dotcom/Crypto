@@ -1,0 +1,34 @@
+.mainbody{
+    background-color:#212529
+    ;
+}
+
+
+.maincard{
+    background-color: rgba(0, 0, 0, 0.489);
+    text-align: center;
+    color: white;
+    border-radius:2px;
+    padding:30px;
+    margin-bottom:10px;
+}
+
+.txt{
+    font-size: 20px;
+}
+
+.editcard{
+    background-color: rgba(0, 0, 0, 0.489);
+    color: white;
+    border-radius:2px;
+    padding:30px;
+    margin:30px;
+    font-size:20px;
+}
+
+
+
+
+
+
+   
